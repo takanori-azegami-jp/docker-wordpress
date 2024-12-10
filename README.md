@@ -24,4 +24,4 @@ http://127.0.0.1:8080/
 
 - [クィックスタート: Compose と WordPress](https://docs.docker.jp/compose/wordpress.html)
 
-- [Wordpress の開発環境を Docker で作りたい](hhttps://qiita.com/usayamadausako/items/b87885f5af3fb43e9266)
+- [Wordpress の開発環境を Docker で作りたい](https://qiita.com/usayamadausako/items/b87885f5af3fb43e9266)
