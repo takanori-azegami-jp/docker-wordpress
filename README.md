@@ -4,9 +4,9 @@ Docker 環境で WordPress を構築する
 
 ## 環境
 
-OS：Windows 10 Pro 22H2
-Rancher Desktop 1.9.1
-ocker version 24.0.2-rd, build e63f5fa
+- OS：Windows 10 Pro 22H2
+- Rancher Desktop 1.9.1
+- ocker version 24.0.2-rd, build e63f5fa
 
 ## 実行コマンド
 
